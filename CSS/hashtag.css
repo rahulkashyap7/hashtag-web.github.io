@@ -159,7 +159,7 @@ body {
     display: flex;
     width: 100%;
     padding: 100px 0 125px;
-    background: url(../Assests-img/images/bg.png) no-repeat;
+    background: url(../images/bg.png) no-repeat;
     background-size: cover;
     justify-content: center;
     align-items: center;
@@ -358,7 +358,7 @@ body {
 }
 
 .features_wrapper .ft-1:before {
-    content: url(../Assests-img/images/consultancy.png);
+    content: url(../images/consultancy.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -371,7 +371,7 @@ body {
 }
 
 .features_wrapper .ft-2:before {
-    content: url(../Assests-img/images/solutions.png);
+    content: url(../images/solutions.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -384,7 +384,7 @@ body {
 }
 
 .features_wrapper .ft-3:before {
-    content: url(../Assests-img/images/simple.png);
+    content: url(../images/simple.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -397,7 +397,7 @@ body {
 }
 
 .features_wrapper .ft-4:before {
-    content: url(../Assests-img/images/deadline.png);
+    content: url(../images/deadline.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -410,7 +410,7 @@ body {
 }
 
 .features_wrapper .ft-5:before {
-    content: url(../Assests-img/images/data.png);
+    content: url(../images/data.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -423,7 +423,7 @@ body {
 }
 
 .features_wrapper .ft-6:before {
-    content: url(../Assests-img/images/flexible.png);
+    content: url(../images/flexible.png);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -768,7 +768,7 @@ body {
 .footer_wrapper {
     padding-top: 100px;
     padding-bottom: 25px;
-    background: url(../Assests-img/images/bg_footer.png) no-repeat;
+    background: url(../images/bg_footer.png) no-repeat;
     background-size: cover;
     background-color: var(--bg-black);
     color: var(--text-white);
